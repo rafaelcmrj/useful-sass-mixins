@@ -1,0 +1,47 @@
+@mixin font-butler-black() {
+    font-family: 'ButlerBlack';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@mixin font-butler-bold() {
+    font-family: 'Butler3';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@mixin font-butler-extra-bold() {
+    font-family: 'ButlerExtBd';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@mixin font-butler-light() {
+    font-family: 'Butler';
+    font-style: normal;
+    font-weight: bold;
+}
+
+@mixin font-butler-ultra-light() {
+    font-family: 'Butler';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@mixin font-butler-medium() {
+    font-family: 'ButlerMed';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@mixin font-butler-regular() {
+    font-family: 'Butler2';
+    font-style: normal;
+    font-weight: normal;
+}
+
+@mixin font-gibson() {
+    font-family: 'canada-type-gibson';
+    font-weight: 300;
+    letter-spacing: 1px;
+}

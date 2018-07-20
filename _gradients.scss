@@ -1,0 +1,15 @@
+@mixin linear-gradient($gradient, $initialColor) {
+    background: $initialColor; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient($gradient); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient($gradient); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient($gradient); /* For Firefox 3.6 to 15 */
+    background: linear-gradient($gradient); /* Standard syntax */
+}
+
+@mixin linear-gradient-with-image($gradient, $initialColor, $image) {
+    background: $initialColor; /* For browsers that do not support gradients */
+    background: url($image), -webkit-linear-gradient($gradient); /* For Safari 5.1 to 6.0 */
+    background: url($image),-o-linear-gradient($gradient); /* For Opera 11.1 to 12.0 */
+    background: url($image),-moz-linear-gradient($gradient); /* For Firefox 3.6 to 15 */
+    background: url($image),linear-gradient($gradient); /* Standard syntax */
+}
