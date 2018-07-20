@@ -19,6 +19,3 @@ This project contains the following mixins:
 [rotate](https://github.com/rafaelcmrj/useful-sass-mixins/blob/master/_rotate.scss)
 
 [transition](https://github.com/rafaelcmrj/useful-sass-mixins/blob/master/_transition.scss)
-
-[typography](https://github.com/rafaelcmrj/useful-sass-mixins/blob/master/_typography.scss)
-
