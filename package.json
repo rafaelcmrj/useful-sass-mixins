@@ -1,11 +1,24 @@
 {
   "name": "useful-sass-mixins",
   "version": "0.0.1",
-  "description": "Useful SASS mixins",
+  "description": "Usel SASS mixins",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelcmrj/useful-sass-mixins.git"
+  },
+  "keywords": [
+    "sass",
+    "mixins",
+    "useful"
+  ],
   "author": "Rafael Costa <rafaelcmrj@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelcmrj/useful-sass-mixins/issues"
+  },
+  "homepage": "https://github.com/rafaelcmrj/useful-sass-mixins#readme"
 }
