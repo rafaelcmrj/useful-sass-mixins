@@ -1,6 +1,6 @@
 {
   "name": "master-useful-sass-mixins",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Usel SASS mixins",
   "main": "index.js",
   "scripts": {

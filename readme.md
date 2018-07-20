@@ -19,3 +19,14 @@ This project contains the following mixins:
 [rotate](https://github.com/rafaelcmrj/useful-sass-mixins/blob/master/_rotate.scss)
 
 [transition](https://github.com/rafaelcmrj/useful-sass-mixins/blob/master/_transition.scss)
+
+
+### How to use
+
+```
+npm install master-useful-sass-mixins --save
+```
+
+```
+@import 'node_modules/master-useful-sass-mixins/build';
+```
